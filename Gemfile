@@ -54,6 +54,10 @@ gem 'figaro', '1.0.0'
 
 # Use paperclip for image upload
 gem 'paperclip', '4.2.1'
+
+#Use Autoprefixer to add CSS Vendor Profiles
+gem 'autoprefixer-rails'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
